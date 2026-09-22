@@ -1,37 +1,21 @@
-<h1 align="center">
-👋 Hi, I'm Anjar Nur Afif
-</h1>
+<h1 align="center">Hey, I'm Anjar 👋</h1>
 
 <p align="center">
-Information Technology Student | Software Development | IoT
+  Information Technology Student | Building Things with Code 🚀
 </p>
 
 ---
 
-Information Technology student from Bekasi, Indonesia, passionate about building practical technology solutions — from web applications and databases to IoT systems.
+I'm an IT student from Indonesia who enjoys turning ideas into practical solutions.
 
-I enjoy exploring software development, system security, and creating projects that solve real-world problems.
+Currently exploring:
+- 💻 Software Development
+- 🗄️ Database Systems
+- 🤖 IoT Projects
+- 🔐 Cyber Security
 
-### 🚀 Currently
+I like learning by building — creating applications, experimenting with technology, and improving my skills through real projects.
 
-- 🔭 Building software and IoT-based projects
-- 🌱 Learning backend development and database systems
-- 💼 Looking for IT Internship opportunities
+---
 
-### 🛠️ Tech Stack
-
-Python • SQL • Flutter • Firebase • MySQL • Streamlit • Arduino
-
-### 📌 Featured Projects
-
-🔐 **Digital Transaction Security System**
-- Hybrid cryptography based web application
-- AES-256, RSA, SHA-256 implementation
-
-🏠 **IoT Home Device Monitoring System**
-- Real-time monitoring and automation system
-- Flutter + Firebase + ESP32
-
-### 📫 Reach Me
-
-📧 anjarnurafif3@gmail.com
+### 🛠️ Tech I Work With
