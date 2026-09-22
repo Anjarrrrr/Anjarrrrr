@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Anjar Nur Afif 👋
 
-<!--
-**Anjarrrrr/Anjarrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student  
+📍 Bekasi, Indonesia
 
-Here are some ideas to get you started:
+I am passionate about software development, databases, and IoT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building projects with:
+- Python
+- SQL
+- Flutter
+- Firebase
+- IoT
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Digital Transaction Security System
+
+A web-based security system using hybrid cryptography.
+
+Tech:
+Python | Streamlit | MySQL | PyCryptodome
+
+Features:
+- AES-256 Encryption
+- RSA Encryption
+- SHA-256 Hashing
+
+
+### 🏠 IoT Home Device Monitoring System
+
+A mobile-based IoT monitoring and automation system.
+
+Tech:
+Flutter | Firebase | ESP32 | Arduino IDE
+
+Features:
+- Real-time monitoring
+- Sensor synchronization
+- Device automation
+
+
+---
+
+## 🛠 Tech Stack
+
+Python  
+SQL  
+Flutter  
+Firebase  
+MySQL  
+GitHub  
+Arduino  
+
+
+---
+
+## 📫 Connect With Me
+
+Email:
+anjarnurafif3@gmail.com
