@@ -1,73 +1,37 @@
-<h1 align="center">Hi, I'm Anjar Nur Afif 👋</h1>
+<h1 align="center">
+👋 Hi, I'm Anjar Nur Afif
+</h1>
 
 <p align="center">
-  Information Technology Student | Software Development | IoT | Database
-</p>
-
-<p align="center">
-  Building projects, learning new technologies, and creating practical solutions.
+Information Technology Student | Software Development | IoT
 </p>
 
 ---
 
-## 👨‍💻 About Me
+Information Technology student from Bekasi, Indonesia, passionate about building practical technology solutions — from web applications and databases to IoT systems.
 
-🎓 Information Technology Student at Universitas Bina Sarana Informatika  
-📍 Bekasi, Indonesia
+I enjoy exploring software development, system security, and creating projects that solve real-world problems.
 
-Interested in:
-- Software Development
-- Database Systems
-- IoT Development
-- Cyber Security Fundamentals
+### 🚀 Currently
 
-Currently looking for opportunities as an IT Intern.
+- 🔭 Building software and IoT-based projects
+- 🌱 Learning backend development and database systems
+- 💼 Looking for IT Internship opportunities
 
----
+### 🛠️ Tech Stack
 
-## 🛠 Tech Stack
+Python • SQL • Flutter • Firebase • MySQL • Streamlit • Arduino
 
-**Languages**
-- Python
-- SQL
-- Dart
+### 📌 Featured Projects
 
-**Framework & Tools**
-- Flutter
-- Firebase
-- Streamlit
-- Arduino IDE
-- Git & GitHub
+🔐 **Digital Transaction Security System**
+- Hybrid cryptography based web application
+- AES-256, RSA, SHA-256 implementation
 
-**Database**
-- MySQL
-- Firebase Realtime Database
+🏠 **IoT Home Device Monitoring System**
+- Real-time monitoring and automation system
+- Flutter + Firebase + ESP32
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 Digital Transaction Security System
-Hybrid cryptography based web application.
-
-**Tech:** Python • Streamlit • MySQL
-
-AES-256 Encryption | RSA Encryption | SHA-256 Hashing
-
-
-### 🏠 IoT Home Device Monitoring System
-Mobile IoT monitoring and automation system.
-
-**Tech:** Flutter • Firebase • ESP32
-
----
-
-## 📫 Contact
+### 📫 Reach Me
 
 📧 anjarnurafif3@gmail.com
-
----
-
-<p align="center">
-  🚀 Always learning and building.
-</p>
